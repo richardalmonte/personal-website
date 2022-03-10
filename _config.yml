@@ -53,8 +53,7 @@ topics:
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/csharp/csharp.png
 
-  #- name: Web design
-
+  
   - name: Typescript
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
