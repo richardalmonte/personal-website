@@ -28,31 +28,33 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: richardalmonte
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+   stackoverflow: 4822855
   # telegram: your_username
-  # twitter: your_username
+   twitter: ricalmont
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Backend Development
 
-  - name: Web design
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/csharp/csharp.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  #- name: Web design
+
+  - name: Typescript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
