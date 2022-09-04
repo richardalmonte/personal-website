@@ -10,7 +10,7 @@ services:
     ports:
       - 4000:4000
     restart: always
-    command: >
+    command:
       sh -c "bundle install &&
             npm install &&
             npm run dev"
