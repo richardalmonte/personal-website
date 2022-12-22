@@ -10,3 +10,7 @@ fi
 if [ -f Gemfile ]; then
     bundle install
 fi
+
+export GITHUB_ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }}
+
+cd ${input:projectName} && bundle install
